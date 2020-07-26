@@ -1,6 +1,5 @@
-.venv
-.idea
-.__pycache__
-mempron.session
 # Project exclude paths
 /venv/
+/idea/
+/__pycache__
+/mempron.session
